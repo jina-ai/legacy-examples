@@ -1,0 +1,12 @@
+!MinRanker
+requests:
+  on:
+    SearchRequest:
+      - !Chunk2DocRankDriver
+        with:
+          method: score
+      - !ExcludeQL
+        with:
+          fields:
+            - buffer
+            - chunks
