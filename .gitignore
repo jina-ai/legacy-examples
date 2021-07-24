@@ -120,6 +120,7 @@ toy*.py
 post/
 toy*.ipynb
 data/
+pretrained/
 *.c
 .nes_cache
 toy*.yml
