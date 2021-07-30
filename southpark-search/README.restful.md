@@ -7,7 +7,6 @@
   - [Index and Search By Yourself](#index-and-search-by-yourself)
   - [Next Steps](#next-steps)
   - [Documentation](#documentation)
-  - [Stay tuned](#stay-tuned)
   - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -237,15 +236,6 @@ The best way to learn Jina in depth is to read our documentation. Documentation 
 - [Jina Protobuf schema](https://docs.jina.ai/chapters/proto/index.html)
 - [Environment variables used in Jina](https://docs.jina.ai/chapters/envs.html)
 - ... [and more](https://docs.jina.ai/index.html)
-
-## Stay tuned
-
-- [Slack chanel](https://join.slack.com/t/jina-ai/shared_invite/zt-dkl7x8p0-rVCv~3Fdc3~Dpwx7T7XG8w) - a communication platform for developers to discuss Jina
-- [Community newsletter](mailto:newsletter+subscribe@jina.ai) - subscribe to the latest update, release and event news of Jina
-- [LinkedIn](https://www.linkedin.com/company/jinaai/) - get to know Jina AI as a company
-- ![Twitter Follow](https://img.shields.io/twitter/follow/JinaAI_?label=Follow%20%40JinaAI_&style=social) - follow us and interact with us using hashtag `#JinaSearch`
-- [Join Us](mailto:hr@jina.ai) - want to work full-time with us at Jina? We are hiring!
-- [Company](https://jina.ai) - know more about our company, we are fully committed to open-source!
 
 
 ## License
