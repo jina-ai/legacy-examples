@@ -11,7 +11,6 @@
   - [🧞‍QueryLanguage](#querylanguage)
   - [💫 Deploy with Docker](#Deploy-with-docker)
   - [Next steps](#next-steps)
-  - [Community](#community)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -196,14 +195,6 @@ docker build -f Dockerfile -t {DOCKER_IMAGE_TAG} .
 ## Next steps
 
 Check the tutorial for [My first Jina app](https://docs.jina.ai/chapters/my_first_jina_app).
-
-## Community
-
-- [Slack channel](https://join.slack.com/t/jina-ai/shared_invite/zt-dkl7x8p0-rVCv~3Fdc3~Dpwx7T7XG8w) - a communication platform for developers to discuss Jina.
-- [Community newsletter](mailto:newsletter+subscribe@jina.ai) - subscribe to the latest update, release and event news of Jina.
-- [LinkedIn](https://www.linkedin.com/company/jinaai/) - get to know Jina AI as a company and find job opportunities.
-- [![Twitter Follow](https://img.shields.io/twitter/follow/JinaAI_?label=Follow%20%40JinaAI_&style=social)](https://twitter.com/JinaAI_) - follow us and interact with us using hashtag `#JinaSearch`.  
-- [Company](https://jina.ai) - know more about our company, we are fully committed to open-source!
 
 ## License
 

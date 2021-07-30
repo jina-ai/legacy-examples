@@ -485,7 +485,6 @@ The best way to learn Jina in depth is to read our documentation. Documentation 
 - ... [and more](https://docs.jina.ai/index.html)
 
 
-## Community
 
 - [Slack channel](https://join.slack.com/t/jina-ai/shared_invite/zt-dkl7x8p0-rVCv~3Fdc3~Dpwx7T7XG8w) - a communication platform for developers to discuss Jina
 - [Community newsletter](mailto:newsletter+subscribe@jina.ai) - subscribe to the latest update, release and event news of Jina
