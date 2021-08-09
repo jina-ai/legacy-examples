@@ -21,7 +21,6 @@
 - [使用多个Chunk和深入ranker](#%E4%BD%BF%E7%94%A8%E5%A4%9A%E4%B8%AAchunk%E5%92%8C%E6%B7%B1%E5%85%A5ranker)
 - [回顾](#%E5%9B%9E%E9%A1%BE)
 - [文档](#%E6%96%87%E6%A1%A3)
-- [社区](#%E7%A4%BE%E5%8C%BA)
 - [许可证](#%E8%AE%B8%E5%8F%AF%E8%AF%81)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -344,14 +343,6 @@ class WeightBiMatchRanker(BiMatchRanker):
 - [Jina Protobuf方案](https://docs.jina.ai/chapters/proto/index.html)
 - [Jina中使用的环境变量](https://docs.jina.ai/chapters/envs.html)
 - ...[更多](https://docs.jina.ai/index.html)
-
-## 社区
-
-- [Slack频道](https://join.slack.com/t/jina-ai/shared_invite/zt-dkl7x8p0-rVCv~3Fdc3~Dpwx7T7XG8w) - 为开发者提供交流平台，探讨Jina。
-- [社区新闻订阅](mailto:newsletter+subscribe@jina.ai) - 订阅Jina的最新更新、发布和活动消息，订阅Jina的最新动态、发布和活动消息。
-- [LinkedIn](https://www.linkedin.com/company/jinaai/) - 了解Jina AI公司并寻找工作机会。
-- ![Twitter Follow](https://img.shields.io/twitter/follow/JinaAI_?label=Follow%20%40JinaAI_&style=social) - 关注我们，并使用tag标签与我们互动`#JinaSearch`。
-- [公司](https://jina.ai/) - 了解更多关于我们公司的信息，我们完全致力于开源。
 
 ## 许可证
 
